@@ -1,7 +1,8 @@
-# Odin Recipes
+# Latin Cocktails Recipes
 
 ## Description
-This is a project proposed by the [Odin Project](https://www.theodinproject.com/). 
+- This is a project proposed by the [Odin Project](https://www.theodinproject.com/). 
+- I decided to make recipes of cocktails from Latin America.
 
 ## Goal
 The goal is to practice the basics of HTML. 
