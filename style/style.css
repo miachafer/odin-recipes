@@ -20,6 +20,9 @@ h1 {
     font-family: 'Abril Fatface', cursive;
     font-size: 50px;
     text-align: center;
+    color:#F5631A;
+    -webkit-text-stroke-width: 0.35px;
+    -webkit-text-stroke-color: #252126;
 }
 
 .recipes {
@@ -30,4 +33,9 @@ h1 {
 
 .paragraphs {
     text-align: justify;
+}
+
+h2, h3 {
+    font-family: 'Abril Fatface', cursive;
+    color:#252126;
 }
